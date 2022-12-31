@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
+    color: black;
+    line-height: 1.5;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: underline;
+    color: aqua;
+    font-size: 25px;
+}
+
+.navbar {
+    background-color: gray;
+    color: aqua;
+    font-size: 30px;
+}
