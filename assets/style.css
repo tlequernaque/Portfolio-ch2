@@ -64,3 +64,23 @@ ul {
 .navbar ul li {
     margin-left: 20px;
 }
+
+.banner{
+    background-image: url('../images/brick-wall.png');
+    height: 120px;
+}
+
+.banner-text{
+   color: gray;
+   font-size: 13px;
+   background-color: aqua;
+}
+
+.header .banner {
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    line-height: 1;
+}
