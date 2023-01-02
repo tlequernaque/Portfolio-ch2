@@ -111,3 +111,39 @@ ul {
     height: 150px;
 }
 
+.section-2{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.section-my-work{
+    flex: 70%;
+    padding: 20px;
+}
+
+.footer{
+   display: flex;
+}
+
+.section-contact-me{
+    flex: 70%;
+    padding: 20px;
+}
+
+.footer a{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.footer a:hover{
+    color: aqua;
+}
+
+.footer ul{
+    display: flex;
+}
+
+.footer ul li{ 
+    padding-left: 20px;
+}
+
