@@ -117,6 +117,10 @@ ul {
     flex-wrap: wrap;
 }
 
+.section-2 .aside{
+    padding-right: 65px;
+}
+
 .section-my-work{
     flex: 70%;
     padding: 20px;
@@ -128,6 +132,10 @@ ul {
 
 .footer .container { 
     font-size: 13px;
+}
+
+.footer .aside{
+    padding-right: 35px;
 }
 
 .section-contact-me{
