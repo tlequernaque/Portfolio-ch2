@@ -125,6 +125,10 @@ ul {
    display: flex;
 }
 
+.footer .container { 
+    font-size: 13px;
+}
+
 .section-contact-me{
     flex: 70%;
     padding: 20px;
