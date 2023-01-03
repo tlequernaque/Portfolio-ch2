@@ -95,6 +95,7 @@ ul {
 .aside{
     flex: 30%;
     padding: 20px;
+    border-right: thick solid grey;
 }
 
 .section-1{
