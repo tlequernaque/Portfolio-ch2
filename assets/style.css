@@ -177,3 +177,12 @@ ul {
     padding-right: 20px;
 }
 
+@media screen and (max-width: 768px) {
+    nav, header, main, footer {
+      flex-direction: column;
+    }
+  
+    main {
+      max-width: 1200px;
+    }
+  }
