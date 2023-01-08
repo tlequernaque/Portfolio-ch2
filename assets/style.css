@@ -126,6 +126,22 @@ ul {
     padding: 20px;
 }
 
+.container-img{
+    width: 400px;
+    min-height: 200px;
+    border: thick solid gray ;
+}
+
+.container-img .box{
+    position: relative;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+.container-img .box .imgBox img{
+    max-width: 100%;
+}
+
 .footer{
    display: flex;
 }
