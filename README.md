@@ -9,7 +9,7 @@ This is my portfolio that I created to showcase my work. The portfolio shows all
 
 ## Screenshots
 
-![](Hsite-screenshot.png)
+![](./images/portfolio-site-screenshot.png)
 
 ## Available Commands
 
