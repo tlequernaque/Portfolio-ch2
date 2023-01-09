@@ -1,7 +1,7 @@
 # Portfolio-ch2
 
 ## Description
-This is my portfolio that I created to showcase my work. The portfolio shows all the work and projects, that I've been a part of and completed, and links connecting them to the live sites. The footer also includes ways to contact me. 
+
 
 ## Links
 
